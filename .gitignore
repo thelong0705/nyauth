@@ -6,7 +6,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -121,3 +122,6 @@ spec/lib/generators/nyauth/tmp
 
 gemfiles/*.lock
 gemfiles/vendor
+
+# Rubymine
+.idea
